@@ -1,0 +1,20 @@
+{
+    "name": "vexy",
+    "description": "A Telegram bot for all your mirror needs",
+    "keywords": [
+      "bot",
+      "telegram",
+      "python"
+    ],
+    "repository": "https://github.com/hex-313/vexy/tree/vexy",
+    "website": "https://github.com/hex-313/vexy",
+    "success_url": "https://github.com/hex-313",
+    "stack": "container",
+    "env": {
+      "CONFIG_FILE_URL": {
+        "description": "gist.github.com",
+        "value": "",
+        "required": false
+      }
+    }
+}
